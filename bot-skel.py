@@ -9,8 +9,6 @@ import os
 from discord.channel import VoiceChannel
 from discord.ext import commands	# Bot class and utils
 
-os.environ['BOT_TOKEN']='OTEyOTg0NTE1OTk0MDc1MTM2.YZ35Fw.h84WCm-Sn_IrO0aIGl-B81pWglk'
-
 ################################################################################
 ############################### HELPER FUNCTIONS ###############################
 ################################################################################
